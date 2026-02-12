@@ -168,6 +168,7 @@ Create an IAM user with these permissions:
 Create a repository to store the Docker image (e.g. `medicalbot`).
 
 - Save the URI, e.g.: `315865595366.dkr.ecr.us-east-1.amazonaws.com/medicalbot`
+- 782430553250.dkr.ecr.eu-north-1.amazonaws.com/medicalbot
 
 ### 4. Create EC2 instance (Ubuntu)
 
